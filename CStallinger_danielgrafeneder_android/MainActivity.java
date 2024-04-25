@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 public void thisIsANewMethod() {
   System.out.println("This line was also added by Member 1");
+  System.out.print("Moin");
  }
-=======
 public void existingMethod(){
 
   System.out.println("This line was added by Member 1");
