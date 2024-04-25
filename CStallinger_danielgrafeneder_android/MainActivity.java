@@ -2,9 +2,12 @@
 public void thisIsANewMethod() {
   System.out.println("This line was also added by Member 1");
   System.out.print("Moin");
+
   System.out.print("Como estas?");
   System.out.print("Bien");
-}
+  System.out.print("Step 4, New Line of code 1");
+  System.out.print("Step 4, New Line of code 2");
+ }
 public void existingMethod(){
 
   System.out.println("This line was added by Member 1");
