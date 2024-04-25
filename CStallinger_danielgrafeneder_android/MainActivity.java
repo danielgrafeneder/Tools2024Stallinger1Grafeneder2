@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-public void thisIsANewMethod() { }
+public void thisIsANewMethod() { System.out.print("Moin");}
 =======
 public void existingMethod(){
 
